@@ -614,7 +614,7 @@ div#main-nav {
 
 #service {
     padding: 60px 0px;
-    background: url('../img/planet_jwstsmall.png') top left repeat !important;
+    background: url('../img/planet_jwstsmall.png') top left !important;
 }
 #service h2{
   color: #fff;
